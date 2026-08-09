@@ -1,6 +1,6 @@
 # University related tasks
 
-> This repository does **not** represent an exhibition of my *skills* and *knowledge*.
+> This repository does **not** represent my *ability*, *skills*, and *knowledge*.
 
 ---
 
